@@ -18,11 +18,14 @@ apt install git -y
 git clone https://github.com/hackerxphantom/Facebook_hack.git
 ```
 ```bash
-cd Facebook_hack
+cd Facebook-hack
 ```
 ```bash
 bash setup
 ```
 ```bash
-python facebook_hack.py
+python fbhack.py
+```
+```bash
+python fbhack.py -t (entergmail or phone) -w 10MPASS.txt
 ```
